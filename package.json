@@ -1,0 +1,11 @@
+{
+  "name": "QuoteBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "grammy": "^1.7.0"
+  }
+}
